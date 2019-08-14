@@ -1,4 +1,4 @@
-# flutter_layout_demo
+# flutter_interactive_demo
 
 A new Flutter project.
 

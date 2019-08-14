@@ -71,7 +71,7 @@ class MyApp extends StatelessWidget {
     );
 
     return MaterialApp(
-      title: 'Flutter layout demo',
+      title: 'Flutter interactive demo',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -88,7 +88,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           // Here we take the value from the MyHomePage object that was created by
           // the App.build method, and use it to set our appbar title.
-          title: Text('Flutter layout demo'),
+          title: Text('Flutter interactive demo'),
         ),
         body: ListView(            
           children: [
